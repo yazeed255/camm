@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>استخدام الكاميرا</title>
+</head>
+<body>
+    <h1>استخدام الكاميرا</h1>
+    <video id="video" width="640" height="480" autoplay></video>
+    <button id="snap">التقاط صورة</button>
+    <canvas id="canvas" width="640" height="480"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
